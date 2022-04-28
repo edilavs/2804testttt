@@ -1,0 +1,96 @@
+.Logo {
+    width: 300px;
+    height: 40px;
+    background-color: gray;
+    display: inline-block;
+}
+
+.FBAP {
+    width: 700px;
+    height: 40px;
+    margin-left: 400px;
+    background-color: gray;
+}
+
+.navg {
+    width: 100%;
+    height: 40px;
+    background-color: gray;
+
+}
+
+.left{
+    display: inline-block;
+}
+
+ .DOTW{
+    width: 400px;
+    height: 200px;
+    margin: 5px;
+    background-color: gray;
+}
+ .HP{
+    width: 400px;
+    height: 200px;
+    background-color: gray;
+    margin: 5px;
+ 
+}
+.HCD{
+    width: 400px;
+    height: 200px;
+    background-color: gray;
+    margin: 5px;
+  
+}
+
+
+.middle{
+    display: inline-block;
+}
+.MSU{
+    width: 200px;
+    height: 400px;
+    background-color: gray;
+    margin-bottom: 5px;
+    margin-left: 10px;
+
+}
+    .PI{
+    width: 200px;
+    height: 400px;
+    background-color: gray;
+    margin-bottom: 5px;
+    margin-left: 10px;
+
+}
+
+.right{
+    display: inline-block;
+}
+.DOS{
+    width: 200px;
+    height: 200px;
+    background-color: gray;
+    margin-bottom: 5px;
+    margin-left: 10px;
+}
+.BPost{
+    width: 200px;
+    height: 400px;
+    background-color: gray;
+    margin-bottom: 5px;
+    margin-left: 10px;
+}
+.HDFP{
+    width: 200px;
+    height: 250px;
+    background-color: gray;
+    margin-bottom: 5px;
+    margin-left: 10px;
+}
+.ftr{
+    width: 100%;
+    height: 50px;
+    background-color: gray;
+}
